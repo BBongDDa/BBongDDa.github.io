@@ -18,6 +18,8 @@ body {
   padding: 1.25rem 2.5rem;
 }
 
+
+
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
@@ -216,6 +218,7 @@ p.typing-txt{display: none;}
   line-height: 50px;
   z-index: 999;
 }
+
 
 .menu-toggle:focus, .menu-toggle:hover {
   color: #fff;
